@@ -41,8 +41,36 @@ Selecting destination server for domain:  <br/>
 <br />
 Installation of Domain Services completed:  <br/>
 <img src="https://imgur.com/Chkbx9L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+<br />
+<br />
+Making a root domain name for the server:   <br/>
+<img src="https://imgur.com/zUk4GzH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating a password for the server:   <br/>
+<img src="https://imgur.com/c1WUTsp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Installation of the domain controller in progress:   <br/>
+<img src="https://imgur.com/94gTGCn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Installation complete and PC is initiating a restart:   <br/>
+<img src="https://imgur.com/5XuH8IB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Logging into DOMAIN controller account:   <br/>
+<img src="https://imgur.com/oWfhMZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Making an ADMINS folder under the "Organizational Unit":   <br/>
+<img src="https://imgur.com/5RPvruE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating Administrator Credentials:   <br/>
+<img src="https://imgur.com/d7lur53.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <!--
  ```diff
 - text in red
