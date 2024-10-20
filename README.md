@@ -15,24 +15,24 @@ In this project, I created an Active Directory (AD) home lab environment using O
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Locating the network properties on the domain controller account: <br/>
+<img src="https://imgur.com/Cybbkda.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Navigated to Network Details to identify the internal network router:  <br/>
+<img src="https://imgur.com/IyLboHK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Manually changing the name of the internal network for easier access: <br/>
+<img src="https://imgur.com/1B7XUtZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring IPv4 settings for configuration:  <br/>
+<img src="https://imgur.com/EEUkrLe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Manually assigning the static IP address (172.16.0.1), subnet masket (255.255.255.0), and DNS (127.0.0.1):  <br/>
+<img src="https://imgur.com/mvSKJaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
