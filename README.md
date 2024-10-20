@@ -35,12 +35,12 @@ Manually assigning the static IP address (172.16.0.1), subnet masket (255.255.25
 <img src="https://imgur.com/mvSKJaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting destination server for domain:  <br/>
+<img src="https://imgur.com/HCt6IBP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installation of Domain Services completed:  <br/>
+<img src="https://imgur.com/Chkbx9L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
