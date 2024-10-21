@@ -9,6 +9,7 @@ In this project, I created an Active Directory (AD) home lab environment using O
 - <b>PowerShell</b> 
 - <b>Active Directory Domain Services</b>
 - <b>DHCP Server</b>
+- <b>DNS</b>
 - <b>Routing and Remote Access</b>
 
 
