@@ -5,13 +5,18 @@ In this project, I created an Active Directory (AD) home lab environment using O
 <br />
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Active Directory Domain Services</b>
+- <b>DHCP Server</b>
+- <b>Routing and Remote Access</b>
+
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
-- <b>Windows Server 2019</b> 
+- <b>Windows Server 2019</b>
+- <b>Oracle VirtualBox</b>
 <h2>Program walk-through:</h2>
 
 <p align="center">
