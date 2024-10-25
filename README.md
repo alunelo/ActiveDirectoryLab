@@ -34,7 +34,7 @@ Changing the name of the NAT: <br/>
 <br />
 <br />
 Configuring the Static IP, Subnet Mask, and DNS Address to the Internal Network:  <br/>
-<img src="https://imgur.com/mvSKJaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5r2zQaW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Changing PC Name:  <br/>
